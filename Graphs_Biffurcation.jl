@@ -1,5 +1,5 @@
 ###############################################################################################################
-#### GraphSeuil_Allee — Diagrammes de bifurcation : effet Allee, mortalités et fécondité               ####
+#### Graphs_Biffurcation — Diagrammes de bifurcation : effet Allee, mortalités et fécondité               ####
 ####                                                                                                     ####
 #### Ce script génère des diagrammes de bifurcation explorant la densité de population à l'équilibre   ####
 #### en fonction de différents paramètres, pour les 4 modèles de parasitoïdie.                          ####
